@@ -13,7 +13,7 @@ profile:
     <p>Huawei</p>
     <p>Beijing, China</p>
     <p>Email: jianlong.chang@huawei.com</p>
-    <p><a href="[https://www.example.com](https://scholar.google.com/citations?hl=en&user=RDwnNsQAAAAJ)">Google Scholar</a></p>
+    <p><a href="https://scholar.google.com/citations?hl=en&user=RDwnNsQAAAAJ">Google Scholar</a></p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
