@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 路漫漫其修远兮，吾将上下而求索。Alas! The way before me lies long. Still, I'll seek my dream high and low.
 
 profile:
   align: right
