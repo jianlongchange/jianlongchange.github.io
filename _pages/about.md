@@ -14,25 +14,24 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-### Basic Infomation
 He is a researcher specializing in Artificial General Intelligence (AGI), dedicated to driving innovation and empowering industries with AI solutions. Currently, he serves as the tech leader at Huawei Cloud in Beijing, contributing to the PanGu Large Model.
 
-### Work Experience
-#### Tech Leader, AI Research Scientist, Huawei Cloud (Beijing)  
+## Work Experience
+### Tech Leader & AI Research Scientist, Huawei Cloud (Beijing)  
 *Leading the PanGu Predict Large Model*  
 **2020 - Present**  
-- Led a team to advance AI technologies in large-scale models.  
+- Led a team advancing AI technologies in large-scale models.  
 - Focused on integrating AGI research into practical industry applications.  
 - Designed scalable AI-driven solutions to empower various industries.  
 
-### Education
-#### Ph.D. in Pattern Recognition and Intelligent Systems  
-**[Chinese Academy of Sciences (CAS)], 2015 - 2020**  
-- Dissertation: "Exploring General Intelligence through Scalable AI Models."  
+## Education
+### Ph.D. in Pattern Recognition and Intelligent Systems  
+**Chinese Academy of Sciences (CAS), 2015 - 2020**  
+- Dissertation: *Exploring General Intelligence through Scalable AI Models*  
 - Research focus: AGI, neural network architectures, and machine learning theory.  
 
-#### Bachelor of Science in Mathematics and Applied Mathematics  
-**[University of Electronic Science and Technology of China (UESTC)], 2011 - 2015**  
+### B.S. in Mathematics and Applied Mathematics  
+**University of Electronic Science and Technology of China (UESTC), 2011 - 2015**  
 - Graduated with honors.  
-- Specialized in algorithms, data structures, and machine learning fundamentals. 
+- Specialized in algorithms, data structures, and machine learning fundamentals.
 
