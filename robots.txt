@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://vector1127.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://Iongway.github.io/sitemap.xml
