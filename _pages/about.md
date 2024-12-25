@@ -6,22 +6,33 @@ subtitle: 路漫漫其修远兮，吾将上下而求索。Alas! The way before m
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: cjl.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Research Director</p>
-    <p>Huawei</p>
-    <p>Beijing, China</p>
-    <p>Email: jianlong.chang@huawei.com</p>
-    <p><a href="https://scholar.google.com/citations?hl=en&user=RDwnNsQAAAAJ">Google Scholar</a></p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+## Basic Infomation
+He is a researcher specializing in Artificial General Intelligence (AGI), dedicated to driving innovation and empowering industries with AI solutions. Currently, he serves as the tech leader at Huawei Cloud in Beijing, contributing to the PanGu Large Model.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## Work Experience
+### Tech Leader, AI Research Scientist, Huawei Cloud (Beijing)  
+*Leading the PanGu Predict Large Model*  
+**2020 - Present**  
+- Led a team to advance AI technologies in large-scale models.  
+- Focused on integrating AGI research into practical industry applications.  
+- Designed scalable AI-driven solutions to empower various industries.  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+## Education
+### Ph.D. in Pattern Recognition and Intelligent Systems  
+**[Chinese Academy of Sciences (CAS)], 2015 - 2020**  
+- Dissertation: "Exploring General Intelligence through Scalable AI Models."  
+- Research focus: AGI, neural network architectures, and machine learning theory.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### Bachelor of Science in Mathematics and Applied Mathematics  
+**[University of Electronic Science and Technology of China (UESTC)], 2011 - 2015**  
+- Graduated with honors.  
+- Specialized in algorithms, data structures, and machine learning fundamentals. 
+
