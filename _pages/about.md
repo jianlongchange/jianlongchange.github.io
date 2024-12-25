@@ -6,22 +6,12 @@ subtitle: 路漫漫其修远兮，吾将上下而求索。Alas! The way before m
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: cjl.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Research Director</p>
-    <p>Huawei</p>
-    <p>Beijing, China</p>
-    <p>Email: jianlong.chang@huawei.com</p>
-    <p><a href="https://scholar.google.com/citations?hl=en&user=RDwnNsQAAAAJ">Google Scholar</a></p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+He is a researcher specializing in Artificial General Intelligence (AGI), dedicated to driving innovation and empowering industries with AI solutions. Currently, he serves as the tech leader at Huawei in Beijing, contributing to the development of the PanGu Large Model.
