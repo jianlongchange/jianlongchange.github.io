@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: 路漫漫其修远兮，吾将上下而求索。Alas! The way before me lies long. Still, I'll seek my dream high and low.
 
