@@ -14,29 +14,10 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I serve as the Tech Leader at Huawei Cloud in Beijing, motivated by [The Bitter Lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf) and [Platonic Representation](https://arxiv.org/abs/2405.07987).
+I serve as the Tech Leader at Huawei Cloud in Beijing (*2020 - Present*), motivated by [The Bitter Lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf) and [Platonic Representation](https://arxiv.org/abs/2405.07987). I have authored or co-authored over 50 papers published in leading journals and conferences, including T-PAMI and NeurIPS. See the [Google Scholar](https://scholar.google.com/citations?user=RDwnNsQAAAAJ) for more details.
 
-Our team specializing in Artificial General Intelligence (AGI), is dedicated to driving innovation and empowering industries with AI solutions. **If this resonates with you, we are actively hiring (full-time + internships)!**
+Our team specializing in Artificial General Intelligence (AGI), is dedicated to driving innovation and empowering industries with AI solutions. **If this resonates with you, we are actively hiring ([full-time + internships](jianlong.chang@huawei.com))!**
 
-### Work Experience
+Prior to that, I was a PhD student (*2015-2020*) at the [National Laboratory of Pattern Recognition](https://nlpr.ia.ac.cn/en), [Institute of Automation](https://www.ia.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/). My advisor was [Chunhong Pan](https://people.ucas.ac.cn/~panchunhong) and I worked on relation-based deep
+learning, deep graph networks, Auto ML. Before I joined CAS, I graduated with a B.S. (*2011-2015*) in Mathematics and Applied Mathematics from [the University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). 
 
-**Tech Leader & AI Research Scientist, Huawei Cloud**  
-*2020 – Present*
-
-- Led a team advancing AI technologies in large-scale models.
-- Played a key role in integrating AGI research into scalable industry solutions.
-- Designed AI-driven solutions to empower businesses across various sectors.
-
-### Education
-
-**Ph.D. in Pattern Recognition and Intelligent Systems**  
-*Chinese Academy of Sciences (CAS), 2015 – 2020*
-
-- Dissertation: *Exploring General Intelligence through Scalable AI Models*.
-- Research focus: AGI, neural network architectures, and machine learning theory.
-
-**B.S. in Mathematics and Applied Mathematics**  
-*University of Electronic Science and Technology of China (UESTC), 2011 – 2015*
-
-- Graduated with honors.
-- Specialized in algorithms, data structures, and machine learning fundamentals.
