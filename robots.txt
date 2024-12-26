@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://longway-ai.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://jianlongchange.github.io/sitemap.xml
