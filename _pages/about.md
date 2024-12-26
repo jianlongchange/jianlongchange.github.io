@@ -14,7 +14,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I serve as the Tech Leader at Huawei Cloud in Beijing, motivated by the [bitter lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf) and the [plantic representation](https://arxiv.org/abs/2405.07987).
+I serve as the Tech Leader at Huawei Cloud in Beijing, motivated by [The Bitter Lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf) and [Platonic Representation](https://arxiv.org/abs/2405.07987).
 
 Our team specializing in Artificial General Intelligence (AGI), is dedicated to driving innovation and empowering industries with AI solutions. **If this resonates with you, we are actively hiring (full-time + internships)!**
 
