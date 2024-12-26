@@ -1,59 +1,11 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Jianlong Chang
-
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D.
-      institution: Institute of Automation, Chinese Academy of Sciences, Beijing, China
-      year: 2015 - 2020
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: B.S.
-      institution: University of Electronic Science and Technology of China, Chengdu, China
-      year: 2011 - 2015
-      description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Tech Leader & Research Scientist
-      institution: Huawei Cloud
-      year: 2020 - now
-
-- title: Honors and Awards
+- title: Awards
   type: time_table
   contents:
     - year: 2022
       items:
-        - Individual Gold Medal Award (金牌个人)
+        - title: Individual Gold Medal Award (华为金牌个人)
+          contents:
+            - Huawei’s Highest Individual Award, Top 1%.
         - Wu Wenjun Outstanding Doctoral Dissertation Award (吴文俊优秀博士论文奖)
     - year: 2021
       items:
@@ -66,7 +18,7 @@
       items:
         - CAS President’s Award
 
-- title: Academic Interests
+- title: Interests
   type: nested_list
   contents:
     - title: Topic 1.
@@ -77,8 +29,3 @@
       items:
         - Description 1.
         - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
