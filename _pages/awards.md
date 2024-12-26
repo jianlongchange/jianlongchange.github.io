@@ -3,7 +3,7 @@ layout: page
 permalink: /awards/
 title: awards
 description: 
-nav: true
+nav: false
 nav_order: 6
 ---
 - Huawei TopMinds (华为天才少年), Huawei, 2020
