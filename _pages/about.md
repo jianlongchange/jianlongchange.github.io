@@ -20,7 +20,6 @@ Our team specializing in Artificial General Intelligence (AGI), is dedicated to 
 
 <h3>Work Experience</h3>
 <h4>Tech Leader & AI Research Scientist, Huawei Cloud</h4>
-<p><i>Leading the PanGu Predict Large Model</i></p>
 <p><b>2020 - Present</b></p>
 <ul>
     <li>Led a team advancing AI technologies in large-scale models.</li>
