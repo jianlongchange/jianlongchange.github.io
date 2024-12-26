@@ -19,5 +19,5 @@ I serve as the Tech Leader at Huawei Cloud in Beijing (*2020 - Present*), motiva
 Our team specializing in Artificial General Intelligence (AGI), is dedicated to driving innovation and empowering industries with AI solutions. **If this resonates with you, we are actively hiring ([full-time + internships](jianlong.chang@huawei.com))!**
 
 Prior to that, I was a PhD student (*2015-2020*) at the [National Laboratory of Pattern Recognition](https://nlpr.ia.ac.cn/en), [Institute of Automation](https://www.ia.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/). My advisor was [Chunhong Pan](https://people.ucas.ac.cn/~panchunhong) and I worked on relation-based deep
-learning, deep graph networks, Auto ML. Before I joined CAS, I graduated with a B.S. (*2011-2015*) in Mathematics and Applied Mathematics from [the University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). 
+learning, deep graph networks, Auto ML. Before I joined CAS, I graduated with a B.S. (*2011-2015*) in the [School of Mathematical Sciences](https://www.math.uestc.edu.cn/) from [the University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). 
 
