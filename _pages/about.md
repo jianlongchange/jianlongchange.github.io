@@ -14,31 +14,29 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I serve as the tech leader at Huawei Cloud in Beijing.
+I serve as the Tech Leader at Huawei Cloud in Beijing, motivated by the [bitter lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf) and the [plantic representation](https://arxiv.org/abs/2405.07987).
 
 Our team specializing in Artificial General Intelligence (AGI), is dedicated to driving innovation and empowering industries with AI solutions. **If this resonates with you, we are actively hiring (full-time + internships)!**
 
-<h3>Work Experience</h3>
-<h4>Tech Leader & AI Research Scientist, Huawei Cloud</h4>
-<p><b>2020 - Present</b></p>
-<ul>
-    <li>Led a team advancing AI technologies in large-scale models.</li>
-    <li>Focused on integrating AGI research into practical industry applications.</li>
-    <li>Designed scalable AI-driven solutions to empower various industries.</li>
-</ul>
+### Work Experience
 
-<h3>Education</h3>
-<h4>Ph.D. in Pattern Recognition and Intelligent Systems</h4>
-<p><b>Chinese Academy of Sciences (CAS), 2015 - 2020</b></p>
-<ul>
-    <li>Dissertation: <i>Exploring General Intelligence through Scalable AI Models</i></li>
-    <li>Research focus: AGI, neural network architectures, and machine learning theory.</li>
-</ul>
+**Tech Leader & AI Research Scientist, Huawei Cloud**  
+*2020 – Present*
 
-<h4>B.S. in Mathematics and Applied Mathematics</h4>
-<p><b>University of Electronic Science and Technology of China (UESTC), 2011 - 2015</b></p>
-<ul>
-    <li>Graduated with honors.</li>
-    <li>Specialized in algorithms, data structures, and machine learning fundamentals.</li>
-</ul>
+- Led a team advancing AI technologies in large-scale models.
+- Played a key role in integrating AGI research into scalable industry solutions.
+- Designed AI-driven solutions to empower businesses across various sectors.
 
+### Education
+
+**Ph.D. in Pattern Recognition and Intelligent Systems**  
+*Chinese Academy of Sciences (CAS), 2015 – 2020*
+
+- Dissertation: *Exploring General Intelligence through Scalable AI Models*.
+- Research focus: AGI, neural network architectures, and machine learning theory.
+
+**B.S. in Mathematics and Applied Mathematics**  
+*University of Electronic Science and Technology of China (UESTC), 2011 – 2015*
+
+- Graduated with honors.
+- Specialized in algorithms, data structures, and machine learning fundamentals.
