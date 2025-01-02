@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: 路漫漫其修远兮，吾将上下而求索。Scale up learning and keep searching to seek dream and explore AI.
+subtitle: Scale up learning and keep searching to seek dream and explore AI.
 
 profile:
   align: right
@@ -16,7 +16,6 @@ social: false # includes social icons at the bottom of the page
 ---
 I currently serve as the Tech Leader at Huawei Cloud in Beijing, and specializing in Artificial General Intelligence (AGI), is dedicated to driving innovation and empowering industries with AI solutions. I have authored or co-authored over 50 papers published in leading journals and conferences, including T-PAMI and NeurIPS. See the [Google Scholar](https://scholar.google.com/citations?user=RDwnNsQAAAAJ) for more details.
 
-Prior to that, I was a PhD student at the [National Laboratory of Pattern Recognition](https://nlpr.ia.ac.cn/en), [Institute of Automation](https://www.ia.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/). My advisor was [Chunhong Pan](https://people.ucas.ac.cn/~panchunhong) and I worked on relation-based deep
-learning, deep graph networks, Auto ML. Before I joined CAS, I graduated with a B.S. in the [School of Mathematical Sciences](https://www.math.uestc.edu.cn/) from [the University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). 
+Prior to that, I was a PhD student at the [National Laboratory of Pattern Recognition](https://nlpr.ia.ac.cn/en), [Institute of Automation](https://www.ia.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/). Before I joined CAS, I graduated with a B.S. in the [School of Mathematical Sciences](https://www.math.uestc.edu.cn/) from [the University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). Throughout my journey of life, I am truly grateful to my life mentors, [Chunhong Pan](https://people.ucas.ac.cn/~panchunhong), [Shiming Xiang](https://people.ucas.ac.cn/~xiangshiming), [Chenglin Liu](https://teacher.ucas.ac.cn/~liuchenglin), [Qi Tian](https://www.qitian1987.com/index.html), [Zhouchen Lin](https://zhouchenlin.github.io/), [Liang Wang](https://people.ucas.ac.cn/~wangliang), [Gaofeng Meng](https://people.ucas.ac.cn/~gfmeng), etc., for their efforts in imparting knowledge, teaching me valuable lessons, and resolving my doubts. In return, I am also willing to offer whatever help I can to others.
 
 If this resonates with you, we are actively hiring ([full-time + internships](mailto:jianlong.chang@huawei.com))! motivated by [The Bitter Lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf) and [Platonic Representation](https://arxiv.org/abs/2405.07987).
