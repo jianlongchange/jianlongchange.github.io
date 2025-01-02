@@ -15,7 +15,7 @@
 - title: Interests
   type: nested_list
   contents:
-    - title: [The Bitter Lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf).
+    - title: <a href="https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf">The Bitter Lesson</a>.
       items:
         - Learning.
         - Searching.
