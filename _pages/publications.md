@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Present some selected important publications. See the <a href="https://scholar.google.com/citations?user=RDwnNsQAAAAJ" target="_blank">Google Scholar</a> for more details.
+description: Present some selected important publications. See the <a href="https://scholar.google.com/citations?user=RDwnNsQAAAAJ">Google Scholar</a> for more details.
 nav: true
 nav_order: 2
 ---
