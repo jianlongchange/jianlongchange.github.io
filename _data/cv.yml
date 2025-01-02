@@ -4,18 +4,18 @@
     - title: Individual
       items:
         - Huawei Individual Gold Medal Award, Huawei’s Highest Individual Award, Top 1%.
-        - Wu Wenjun Outstanding Doctoral Dissertation Award, National Top Ten Annually
-        - CAS Outstanding Doctoral Dissertation Award
-        - Huawei Talented Youth
-        - Baidu Scholarship, Global Top Ten Annually
-        - CAS President’s Award
+        - Wu Wenjun Outstanding Doctoral Dissertation Award, National Top Ten Annually.
+        - CAS Outstanding Doctoral Dissertation Award.
+        - Huawei Talented Youth.
+        - Baidu Scholarship, Global Top Ten Annually.
+        - CAS President’s Award.
     - title: Team
       items:
-        - Huawei Individual Gold Medal Award
+        - Huawei Individual Gold Medal Award.
 - title: Interests
   type: nested_list
   contents:
-    - title: [The Bitter Lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf)
+    - title: The Bitter Lesson.
       items:
-        - Learning
-        - Searching
+        - Learning.
+        - Searching.
