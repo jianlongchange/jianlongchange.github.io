@@ -1,25 +1,23 @@
 - title: Awards
   type: time_table
   contents:
-    - year: 2022
+    - year: Individual
       items:
-        - title: Individual Gold Medal Award (华为金牌个人)
-          contents:
-            - Huawei’s Highest Individual Award, Top 1%.
-        - title: Wu Wenjun Outstanding Doctoral Dissertation Award (吴文俊优秀博士论文奖)
+        - title: Huawei Individual Gold Medal Award
+          contents: Huawei’s Highest Individual Award, Top 1%.
+        - title: Wu Wenjun Outstanding Doctoral Dissertation Award
           contents: National Top Ten Annually
-    - year: 2021
       items:
         - CAS Outstanding Doctoral Dissertation Award
-    - year: 2020
       items:
-        - Huwei TopMinds (华为天才少年)
+        - Huawei Talented Youth
         - title: Baidu Scholarship
           contents: Global Top Ten Annually
-    - year: 2019
       items:
         - CAS President’s Award
-
+    - year: Team
+      items:
+        - title: Huawei Individual Gold Medal Award
 - title: Interests
   type: nested_list
   contents:
