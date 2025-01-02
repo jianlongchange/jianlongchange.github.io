@@ -1,7 +1,7 @@
 - title: Awards
-  type: time_table
+  type: nested_list
   contents:
-    - year: Individual
+    - title: Individual
       items:
         - Huawei Individual Gold Medal Award, Huawei’s Highest Individual Award, Top 1%.
         - Wu Wenjun Outstanding Doctoral Dissertation Award, National Top Ten Annually
@@ -9,7 +9,7 @@
         - Huawei Talented Youth
         - Baidu Scholarship, Global Top Ten Annually
         - CAS President’s Award
-    - year: Team
+    - title: Team
       items:
         - Huawei Individual Gold Medal Award
 - title: Interests
