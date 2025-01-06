@@ -2,7 +2,7 @@
 layout: page
 title: GF Securities
 description: early warning of financial anomalies
-img: assets/img/12.jpg
+img: assets/img/guangfa.png
 importance: 1
 category: finance and retail
 related_publications: true
