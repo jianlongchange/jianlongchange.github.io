@@ -2,7 +2,7 @@
 layout: page
 title: Xiangtan Iron and Steel Group
 description: temperature prediction in laminar cooling
-img: assets/img/12.jpg
+img: assets/img/xianggang.jpg
 importance: 1
 category: metal smelting
 related_publications: true
