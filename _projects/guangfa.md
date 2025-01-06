@@ -4,7 +4,7 @@ title: GF Securities
 description: early warning of financial anomalies
 img: assets/img/12.jpg
 importance: 1
-category: finance
+category: finance and retail
 related_publications: true
 ---
 
