@@ -447,7 +447,7 @@ ninja.data = [{
           title: 'Xiangtan Iron and Steel Group',
           description: "temperature prediction in laminar cooling",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/xiangang/";
+              window.location.href = "/projects/xianggang/";
             },},{id: "projects-xing-sheng-you-xuan",
           title: 'XING SHENG YOU XUAN',
           description: "fresh product forecasting",
