@@ -13,4 +13,4 @@ Investment banking is the primary business of securities companies, and risk man
 
 
 
-The application of the Pangu predictive model in the field of financial anomaly warning has significantly improved the accuracy of financial anomaly detection, raising it from the previous range of 50% to 79% up to 90%. This greatly enhances the usability of AI in the field of financial anomalies and substantially strengthens the risk management capabilities of financial institutions.
+The application of the Pangu prediction model in the field of financial anomaly warning has significantly improved the accuracy of financial anomaly detection, raising it from the previous range of 50% to 79% up to 90%. This greatly enhances the usability of AI in the field of financial anomalies and substantially strengthens the risk management capabilities of financial institutions.
