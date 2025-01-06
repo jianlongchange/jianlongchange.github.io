@@ -443,6 +443,11 @@ ninja.data = [{
           description: "early warning of financial anomalies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/guangfa/";
+            },},{id: "projects-xing-sheng-you-xuan",
+          title: 'XING SHENG YOU XUAN',
+          description: "fresh product forecasting",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/xingsheng/";
             },},{
         id: 'social-email',
         title: 'email',
