@@ -438,6 +438,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-gf-securities",
+          title: 'GF Securities',
+          description: "early warning of financial anomalies",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/guangfa/";
             },},{
         id: 'social-email',
         title: 'email',
