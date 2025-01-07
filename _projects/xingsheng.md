@@ -2,7 +2,7 @@
 layout: page
 title: XING SHENG YOU XUAN
 description: fresh product forecasting
-img: assets/img/12.jpg
+img:
 importance: 2
 category: finance and retail
 related_publications: true
