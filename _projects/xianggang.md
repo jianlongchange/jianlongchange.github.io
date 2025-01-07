@@ -8,6 +8,15 @@ category: metal smelting
 related_publications: true
 ---
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/xianggang.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Xiangtan Iron and Steel Group (湘潭钢铁).
+</div>
+
 
 Temperature prediction in laminar cooling has significant value in the steelmaking process. Accurate temperature prediction helps optimize the phase transition process, thereby improving the hardness, toughness, and strength of the steel to meet different application requirements. Reasonable temperature prediction can improve energy efficiency, reduce unnecessary energy consumption, and lower production costs. Finally, by reducing temperature fluctuations during the cooling process, product defects and stress concentrations can be minimized, enhancing the reliability and qualification rate of the finished products.
 
