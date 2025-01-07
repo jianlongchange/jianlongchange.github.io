@@ -8,6 +8,14 @@ category: finance and retail
 related_publications: true
 ---
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/guangfa.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    GF Securities (广发证券).
+</div>
 
 Investment banking is the primary business of securities companies, and risk management is the core competency of financial institutions. The failure to promptly identify corporate financial anomalies can bring significant business risks to securities firms. Therefore, finding suitable methods for early warning of financial anomalies has always been one of the main tasks of securities companies. Previously, related methods were based on manual identification, decision models, or machine learning models, but the main issue was the difficulty in improving accuracy.
 
