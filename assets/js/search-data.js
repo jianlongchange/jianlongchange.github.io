@@ -438,6 +438,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-angang-steel-group",
+          title: 'AnGang Steel Group',
+          description: "temperature prediction in laminar cooling",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/angang/";
             },},{id: "projects-baowu-steel-group",
           title: 'BaoWu Steel Group',
           description: "temperature prediction in laminar cooling",
