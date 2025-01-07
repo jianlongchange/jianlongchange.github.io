@@ -438,6 +438,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-baowu-steel-group",
+          title: 'BaoWu Steel Group',
+          description: "temperature prediction in laminar cooling",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/baowu/";
             },},{id: "projects-gf-securities",
           title: 'GF Securities',
           description: "early warning of financial anomalies",
