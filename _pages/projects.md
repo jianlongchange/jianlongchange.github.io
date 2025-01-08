@@ -5,7 +5,7 @@ permalink: /projects/
 description: Some important AI solutions.
 nav: true
 nav_order: 3
-display_categories: [work, fun, finance and retail, metal smelting]
+display_categories: [work, fun, finance and retail, metal smelting, energy, other]
 horizontal: false
 ---
 
