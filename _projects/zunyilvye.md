@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Zunyi Aluminum Industry
-description: temperature prediction in laminar cooling
+title: Zunyi Aluminum
+description: dynamic optimization of electrolytic aluminum system
 img:
-importance: 1
+importance: 2
 category: metal smelting
-related_publications: true
 ---
 
 <div class="row justify-content-center">
@@ -14,7 +13,7 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    Zunyi Aluminum Industry (遵义铝业).
+    Aluminum Corporation of China, the parent company of Zunyi Aluminum. (中国铝业集团, 遵义铝业母公司).
 </div>
 
 
@@ -23,3 +22,9 @@ The manual coal blending experience is difficult to pass on, heavily relying on 
 The coal blending time is too long, due to the complexity of coal quality information indicators, coal blending engineers spend a lot of time planning meticulously to adapt to new raw coal.
 
 The Pangu Large model has been deployed in the 1880 hot rolling production line of Baowu Steel Group, improving prediction accuracy by over 5%, increasing the steel plate yield rate by 0.5%. It is estimated that an additional 20,000 tons of steel plates can be produced annually, generating an annual revenue increase of over 90 million RMB.
+
+
+<div class="publications">
+    <h2>Links (in Chinese)</h2>
+    <p>遵义铝业发布国内首个电解铝复杂体系动态优化预测大模型 <a href="https://share.eyesnews.cn/news/news-news_detail-news_id-11515116750905.html">Link</a></p>
+</div>
