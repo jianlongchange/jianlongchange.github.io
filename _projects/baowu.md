@@ -13,7 +13,7 @@ category: metal smelting
     </div>
 </div>
 <div class="caption">
-    BaoWu Steel Group (宝武钢铁).
+    BaoWu Steel Group (宝武钢铁集团).
 </div>
 
 
