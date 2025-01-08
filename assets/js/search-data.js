@@ -453,6 +453,11 @@ ninja.data = [{
           description: "early warning of financial anomalies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/guangfa/";
+            },},{id: "projects-thai-durian",
+          title: 'Thai Durian',
+          description: "prediction of durian ripeness",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/liulian/";
             },},{id: "projects-xiangtan-iron-and-steel-group",
           title: 'Xiangtan Iron and Steel Group',
           description: "temperature prediction in laminar cooling",
