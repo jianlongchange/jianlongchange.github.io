@@ -28,11 +28,11 @@ The Pangu Large model has an accuracy rate of 88-90%, significantly improving pr
 
 <div class="publications">
     <h2>Links (in Chinese)</h2>
-    <p>盘古大模型挺进炼钢厂热轧生产线 促进多产钢板2万余吨 <a href="https://baijiahao.baidu.com/s?id=1802468909535655909&wfr=spider&for=pc">LINK</a></p>
-    <p>降价潮下的华为盘古大模型：“解难题，做难事”加速应用落地 <a href="https://www.163.com/dy/article/J587RCGO0519APGA.html">LINK</a></p>
-    <p>盘古5.0重磅发布！华为云大模型年度杀招来了，人形机器人整活 <a href="https://baijiahao.baidu.com/s?id=1802483661386375228&wfr=spider&for=pc">LINK</a></p>
-    <p>卷向多模态，华为云盘古5.0凭啥出圈 <a href="https://baijiahao.baidu.com/s?id=1802561144661027620&wfr=spider&for=pc">LINK</a></p>
-    <p>大模型行至命运的岔路口，盘古要走通“难而正确”的那条道 <a href="http://k.sina.com.cn/article_1893587210_70ddd90a0010164xe.html">LINK</a></p>
-    <p>华为云盘古大模型5.0亮相WAIC 2024，持续重塑千行万业 <a href="https://bbs.huaweicloud.com/blogs/430489">LINK</a></p>
+    <p>盘古大模型挺进炼钢厂热轧生产线 促进多产钢板2万余吨 <a href="https://baijiahao.baidu.com/s?id=1802468909535655909&wfr=spider&for=pc">Link</a></p>
+    <p>降价潮下的华为盘古大模型：“解难题，做难事”加速应用落地 <a href="https://www.163.com/dy/article/J587RCGO0519APGA.html">Link</a></p>
+    <p>盘古5.0重磅发布！华为云大模型年度杀招来了，人形机器人整活 <a href="https://baijiahao.baidu.com/s?id=1802483661386375228&wfr=spider&for=pc">Link</a></p>
+    <p>卷向多模态，华为云盘古5.0凭啥出圈 <a href="https://baijiahao.baidu.com/s?id=1802561144661027620&wfr=spider&for=pc">Link</a></p>
+    <p>大模型行至命运的岔路口，盘古要走通“难而正确”的那条道 <a href="http://k.sina.com.cn/article_1893587210_70ddd90a0010164xe.html">Link</a></p>
+    <p>华为云盘古大模型5.0亮相WAIC 2024，持续重塑千行万业 <a href="https://bbs.huaweicloud.com/blogs/430489">Link</a></p>
 </div>
 
