@@ -453,6 +453,11 @@ ninja.data = [{
           description: "early warning of financial anomalies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/guangfa/";
+            },},{id: "projects-conch-group",
+          title: 'Conch Group',
+          description: "cement process parameter prediction",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hailuo/";
             },},{id: "projects-thai-durian",
           title: 'Thai Durian',
           description: "prediction of durian ripeness",
