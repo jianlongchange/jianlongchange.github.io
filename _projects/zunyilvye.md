@@ -16,13 +16,9 @@ category: metal smelting
     Aluminum Corporation of China, the parent company of Zunyi Aluminum. (中国铝业集团, 遵义铝业母公司).
 </div>
 
+The dynamic optimization of the electrolytic aluminum system has led to improvements in production efficiency, product quality, and reduced energy consumption, setting a benchmark for intelligent and green production in the entire electrolytic aluminum industry.
 
-The manual coal blending experience is difficult to pass on, heavily relying on individual expertise. In the plant, coal blending engineers' manual experience cannot be effectively transferred and can only be handed over by senior workers training new employees. New coal blending engineers are slow to get started on their own and are increasingly difficult to recruit. Meanwhile, the cost of raw coal is high, traditional coal blending values are conservative, quality indicators are often excessive, increasing coking costs. The quality is unstable, and manual experience can only provide rough estimates of coal blending and coking results, making fine calculations impossible. The results of coal blending and coking are highly dependent on personal experience, making it difficult to accurately predict coke quality.
-
-The coal blending time is too long, due to the complexity of coal quality information indicators, coal blending engineers spend a lot of time planning meticulously to adapt to new raw coal.
-
-The Pangu Large model has been deployed in the 1880 hot rolling production line of Baowu Steel Group, improving prediction accuracy by over 5%, increasing the steel plate yield rate by 0.5%. It is estimated that an additional 20,000 tons of steel plates can be produced annually, generating an annual revenue increase of over 90 million RMB.
-
+Based on datasets such as slot control daily reports and inspection and testing data, the Pangu Large model employs scientific prediction methods to achieve efficient calculation and analysis of the molecular ratio, fluoride addition amount, and aluminum output. It precisely predicts the optimal combination of key parameters in the production process. So far, the deviation between the predicted and actual values of the molecular ratio prediction model has been controlled within 0.06, with a fitting degree as high as 0.85.
 
 <div class="publications">
     <h2>Links (in Chinese)</h2>
