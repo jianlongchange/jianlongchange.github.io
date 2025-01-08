@@ -448,6 +448,11 @@ ninja.data = [{
           description: "width expansion prediction &amp; blast furnace temperature prediction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/baowu/";
+            },},{id: "projects-daikin-group",
+          title: 'DAIKIN Group',
+          description: "air quality prediction",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dajin/";
             },},{id: "projects-gf-securities",
           title: 'GF Securities',
           description: "early warning of financial anomalies",
