@@ -445,7 +445,7 @@ ninja.data = [{
               window.location.href = "/projects/angang/";
             },},{id: "projects-baowu-steel-group",
           title: 'BaoWu Steel Group',
-          description: "temperature prediction in laminar cooling",
+          description: "width expansion prediction &amp; blast furnace temperature prediction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/baowu/";
             },},{id: "projects-gf-securities",
