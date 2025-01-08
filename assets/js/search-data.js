@@ -483,9 +483,9 @@ ninja.data = [{
           description: "fresh product forecasting",
           section: "Projects",handler: () => {
               window.location.href = "/projects/xingsheng/";
-            },},{id: "projects-zunyi-aluminum-industry",
-          title: 'Zunyi Aluminum Industry',
-          description: "temperature prediction in laminar cooling",
+            },},{id: "projects-zunyi-aluminum",
+          title: 'Zunyi Aluminum',
+          description: "dynamic optimization of electrolytic aluminum system",
           section: "Projects",handler: () => {
               window.location.href = "/projects/zunyilvye/";
             },},{
