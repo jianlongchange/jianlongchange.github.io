@@ -5,7 +5,6 @@ description: early warning of financial anomalies
 img: 
 importance: 1
 category: finance and retail
-related_publications: true
 ---
 
 <div class="row">
@@ -24,7 +23,7 @@ Investment banking is the primary business of securities companies, and risk man
 The application of the Pangu large model in the field of financial anomaly warning has significantly improved the accuracy of financial anomaly detection, raising it from the previous range of 50% to 79% up to 90%. This greatly enhances the usability of AI in the field of financial anomalies and substantially strengthens the risk management capabilities of financial institutions.
 
 <div class="publications">
-    <h2>Links (Chinese)</h2>
+    <h2>Links (in Chinese)</h2>
     <p>广发证券与华为云基于盘古大模型开展联合创新 <a href="https://www.fromgeek.com/ai/588542.html">LINK</a></p>
     <p>金融科技时代，广发证券的秘密武器是什么？ <a href="https://baijiahao.baidu.com/s?id=1720661031273974580&wfr=spider&for=pc">LINK</a></p>
     <p>大模型开“卷”行业应用 <a href="https://baijiahao.baidu.com/s?id=1785126414080994200&wfr=spider&for=pc">LINK</a></p>
