@@ -463,6 +463,11 @@ ninja.data = [{
           description: "prediction of durian ripeness",
           section: "Projects",handler: () => {
               window.location.href = "/projects/liulian/";
+            },},{id: "projects-shandong-energy-group",
+          title: 'Shandong Energy Group',
+          description: "coal washing &amp; coking blending",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/shanneng/";
             },},{id: "projects-xiangtan-iron-and-steel-group",
           title: 'Xiangtan Iron and Steel Group',
           description: "temperature prediction in laminar cooling",
