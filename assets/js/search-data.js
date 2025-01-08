@@ -483,6 +483,11 @@ ninja.data = [{
           description: "fresh product forecasting",
           section: "Projects",handler: () => {
               window.location.href = "/projects/xingsheng/";
+            },},{id: "projects-yuntianhua-group",
+          title: 'Yuntianhua Group',
+          description: "RTO parameter prediction",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/yuntianhua/";
             },},{id: "projects-zunyi-aluminum",
           title: 'Zunyi Aluminum',
           description: "dynamic optimization of electrolytic aluminum system",
