@@ -4,7 +4,7 @@ title: Thai Durian
 description: prediction of durian ripeness
 img:
 importance: 1
-category: other
+category: finance and retail
 ---
 
 <div class="row justify-content-center">
