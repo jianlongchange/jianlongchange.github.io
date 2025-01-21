@@ -13,7 +13,7 @@ category: energy
     </div>
 </div>
 <div class="caption">
-   China National Petroleum Corporation (CNPC), the parent company of China National Logging Corporation (CNLC). (中国石油集团, 中油测井母公司).
+   China National Petroleum Corporation, the parent company of China National Logging Corporation. (中国石油集团, 中油测井母公司).
 </div>
 
 With years of profound accumulation, China National Logging Corporation (CNLC) has established the largest logging data platform both at home and abroad. This platform has gathered precious data from over one million well operations, covering energy information, as well as various resources information such as oil, natural gas, all kinds of metallic and non-metallic minerals, and coal. These data span a history of a hundred years and are highly value-intensive. Through in-depth mining, CNLC has fully unleashed their potential value, providing powerful data support for energy development, resource management, and industry decision-making.
