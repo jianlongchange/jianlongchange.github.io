@@ -488,6 +488,11 @@ ninja.data = [{
           description: "RTO parameter prediction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/yuntianhua/";
+            },},{id: "projects-china-national-logging-corporation",
+          title: 'China National Logging Corporation',
+          description: "reservoir property estimation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/zhongyoucejing/";
             },},{id: "projects-zunyi-aluminum",
           title: 'Zunyi Aluminum',
           description: "dynamic optimization of electrolytic aluminum system",
