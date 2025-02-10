@@ -18,4 +18,4 @@ I received Ph.D. in [National Laboratory of Pattern Recognition](https://nlpr.ia
 
 I currently serve as a Tech Leader at Huawei [Pangu Lab](https://www.huaweicloud.com/product/pangu.html). Specializing in AGI, I am leading a team to seek the solution for handling infinite tasks, even the unseen ones, within a single AI model, abandoning the traditional approach of repeatedly developing numerous specialized models. I have authored or co-authored over 50 papers published in CSUR‌‌, T-PAMI, NeurIPS, _etc._, and these papers have influenced the work of the Turing Award/Marr Prize winners. See the [Google Scholar](https://scholar.google.com/citations?user=RDwnNsQAAAAJ) for details.
 
-If this resonates with you, we are actively [hiring and sharing](mailto:jianlong.chang@huawei.com).
+If this resonates with you, we are actively [hiring and sharing](mailto:jianlong.chang@petalmail.com).
