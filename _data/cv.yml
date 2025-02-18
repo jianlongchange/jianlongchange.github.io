@@ -1,18 +1,22 @@
 - title: Individual Awards
   type: nested_list
-  items:
-    - Huawei Individual Gold Medal Award, Huawei’s Highest Individual Award, Top 1%.
-    - Wu Wenjun Outstanding Doctoral Dissertation Award, National Top Ten Annually.
-    - CAS Outstanding Doctoral Dissertation Award.
-    - Huawei Talented Youth.
-    - Baidu Scholarship, Global Top Ten Annually.
-    - CAS President’s Award.
+  contents:
+    - title:
+      items:
+        - Huawei Individual Gold Medal Award, Huawei’s Highest Individual Award, Top 1%.
+        - Wu Wenjun Outstanding Doctoral Dissertation Award, National Top Ten Annually.
+        - CAS Outstanding Doctoral Dissertation Award.
+        - Huawei Talented Youth.
+        - Baidu Scholarship, Global Top Ten Annually.
+        - CAS President’s Award.
 
 - title: Team Awards
   type: nested_list
-  items:
-    - SAIL Star of World Artificial Intelligence Conference.
-    - Shenzhen Artificial Intelligence Science and Technology Progress Award.
-    - The 8th Securities and Futures Science and Technology Award.
-    - Product Gold Award of Suzhou Intelligent Manufacturing Expo.
-    - Recognition of Innovative Technologies of Multimedia Enterprises in China.
+  contents:
+    - title:
+      items:
+        - SAIL Star of World Artificial Intelligence Conference.
+        - Shenzhen Artificial Intelligence Science and Technology Progress Award.
+        - The 8th Securities and Futures Science and Technology Award.
+        - Product Gold Award of Suzhou Intelligent Manufacturing Expo.
+        - Recognition of Innovative Technologies of Multimedia Enterprises in China.
