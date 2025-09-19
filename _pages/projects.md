@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: Pangaea
 title: projects
 permalink: /projects/
 description: Some important AI solutions.
