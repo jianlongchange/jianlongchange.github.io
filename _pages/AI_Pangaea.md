@@ -5,27 +5,59 @@ permalink: /AI_Pangaea/
 nav: true
 nav_order: 1
 ---
+<div style="text-align: center; margin-bottom: 30px;">
+  <h1 style="margin-bottom: 10px;">Project Name</h1>
+  <p style="font-size: 18px; font-style: italic; color: gray;">
+    A Unified Model for Multi-Modal Scientific Discovery
+  </p>
+</div>
 
-![Project Banner](assets/img/angang.jpg){: width="100%"}
-
-# Project Name
-*A Unified Model for Multi-Modal Scientific Discovery*
+<div style="text-align: center; margin-bottom: 20px;">
+  <b>Authors:</b>
+  <a href="https://alice.com">Alice</a>,
+  <a href="https://bob.com">Bob</a>,
+  <a href="https://carol.com">Carol</a>
+  <br>
+  Institution A · Institution B
+</div>
 
 ---
 
-## Motivation
-本项目旨在解决 xxx 问题，对 xxx 领域有重要意义。
+## Abstract
+We propose a unified model that bridges multiple modalities...
+Our approach enables effective knowledge transfer across tasks in **drug discovery**, **weather forecasting**, **geological prospecting**, and **disease diagnosis**.
 
-## Approach
-我们提出了一个统一模型，能够同时处理 xxx，并通过跨模态知识转移提升性能。
+---
 
-![Architecture](/assets/img/arch.png){: width="600" .center}
+## Method
+Our model is built on a transformer-based backbone, with ...
+
+<div style="text-align:center; margin:20px 0;">
+  <img src="/assets/img/arch.png" alt="Architecture" width="70%">
+</div>
+
+---
 
 ## Results
-- 在 **任务A** 上超越现有方法 xx%  
-- 在 **任务B** 上首次实现 xxx  
-- 已在 **实际应用场景** 部署  
+- Outperforms previous baselines by **xx%** on Task A  
+- Achieves state-of-the-art on Task B  
+- Demonstrates scalability to multi-modal datasets
+
+<div style="text-align:center; margin:20px 0;">
+  <img src="/assets/img/results.png" alt="Results" width="70%">
+</div>
+
+---
 
 ## Resources
-- [GitHub](https://github.com/xxx)  
-- [Paper](https://arxiv.org/abs/xxx)  
+<div style="text-align:center; margin:20px 0; font-size:18px;">
+  <a href="https://arxiv.org/abs/xxx" class="btn btn-primary" style="margin:5px;">📄 Paper</a>
+  <a href="https://github.com/xxx" class="btn btn-secondary" style="margin:5px;">💻 Code</a>
+  <a href="https://xxx" class="btn btn-info" style="margin:5px;">📊 Dataset</a>
+</div>
+
+---
+
+## Acknowledgements
+This work was supported by ...
+
