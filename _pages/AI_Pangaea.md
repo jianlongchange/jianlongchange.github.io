@@ -1,14 +1,14 @@
 ---
 layout: page
-title: AI_Pangaea
+title: AI Pangaea
 permalink: /AI_Pangaea/
 nav: true
 nav_order: 1
 ---
 <div style="text-align: center; margin-bottom: 30px;">
-  <h1 style="margin-bottom: 10px;">Project Name</h1>
+  <h1 style="margin-bottom: 10px;">AI Pangaea: Unifying Intelligence Islands for Adapting Myriad Tasks</h1>
   <p style="font-size: 18px; font-style: italic; color: gray;">
-    A Unified Model for Multi-Modal Scientific Discovery
+    A Unified Model for Myriad Tasks
   </p>
 </div>
 
