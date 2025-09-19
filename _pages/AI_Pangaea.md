@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: Pangaea
 title: AI Pangaea
 permalink: /AI_Pangaea/
 nav: true
