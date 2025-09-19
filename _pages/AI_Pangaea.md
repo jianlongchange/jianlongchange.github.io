@@ -2,7 +2,7 @@
 layout: page
 title: AI_Pangaea
 permalink: /AI_Pangaea/
-nav: false
+nav: true
 nav_order: 1
 ---
 
