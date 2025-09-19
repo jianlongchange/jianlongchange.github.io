@@ -4,6 +4,7 @@ title: AI Pangaea
 permalink: /AI_Pangaea/
 nav: true
 nav_order: 1
+classes: wide-page
 ---
 # Pangaea — Unified Foundation Model
 
