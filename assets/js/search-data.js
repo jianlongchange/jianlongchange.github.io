@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-ai-pangaea",
-          title: "AI_Pangaea",
+          title: "AI Pangaea",
           description: "",
           section: "Navigation",
           handler: () => {
