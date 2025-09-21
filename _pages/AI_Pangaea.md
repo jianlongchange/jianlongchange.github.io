@@ -5,19 +5,14 @@ permalink: /AI_Pangaea/
 nav: true
 nav_order: 1
 ---
-
-<div style="text-align:center; margin-top:40px; margin-bottom:40px;">
-  <!-- 项目标题 -->
-  <h1 style="font-size:2.6em; font-weight:600; margin-bottom:20px; color:#222;">
+<!-- 项目标题 -->
+<div style="text-align:center; margin-top:40px; margin-bottom:30px;">
+  <h1 style="font-size:2.6em; font-weight:600; margin-bottom:10px; color:#222;">
     AI Pangaea: Unifying Intelligence Islands for Adapting Myriad Tasks
   </h1>
-
-  <!-- tagline (学术风背景介绍) -->
-  <p style="font-size:1.15em; color:#444; max-width:900px; margin:0 auto 25px auto; line-height:1.55;">
-    The pursuit of artificial general intelligence continuously demands generalization in one model across myriad tasks, even those not seen before. However, current AI models are isolated from each other for being limited to specific tasks, now first defined as <em>Intelligence Islands</em>. To unify Intelligence Islands into one, we propose <em>Pangaea</em>, the first AI supercontinent akin to the geological Pangaea. Pangaea encodes any data into a unified format and accumulates universal knowledge through pre-training on 296 datasets across diverse modalities. Eventually, it demonstrates remarkable generalization across 45 general tasks and 15 scientific tasks encompassing a wide range of scientific subjects. By investigating Pangaea deeper, the scaling effect of modality is revealed, quantifying the universal knowledge accumulation across modalities as the cumulative distribution function of a geometric distribution. On the whole, Pangaea shows strong potential to handle myriad tasks, indicating a new direction toward artificial general intelligence.
-  </p>
 </div>
 
+<!-- hero 图 -->
 <figure style="margin: 0; text-align: center;">
   <img src="/assets/img/Intelligence Islands.png" 
        alt="Pangaea Banner" 
@@ -26,6 +21,13 @@ nav_order: 1
     a. AI models build intelligence from data relying on modality-specific data encodings, leading to Intelligence Islands; b. Pangaea unifies Intelligence Islands through unified data encoding, constructing an AI supercontinent.
   </figcaption>
 </figure>
+
+<!-- tagline / 背景介绍 -->
+<div style="text-align:center; margin-top:35px; margin-bottom:40px;">
+  <p style="font-size:1.15em; color:#444; max-width:900px; margin:0 auto 25px auto; line-height:1.55;">
+    The pursuit of artificial general intelligence continuously demands generalization in one model across myriad tasks, even those not seen before. However, current AI models are isolated from each other for being limited to specific tasks, now first defined as <em>Intelligence Islands</em>. To unify Intelligence Islands into one, we propose <strong>Pangaea</strong>, the first AI supercontinent akin to the geological Pangaea.
+  </p>
+</div>
 
 ---
 
