@@ -4,22 +4,18 @@ title: AI Pangaea
 permalink: /AI_Pangaea/
 nav: true
 nav_order: 1
-classes: wide-page
 ---
 
 <section class="hero" style="text-align:center; padding:40px 20px;">
   <!-- 项目名 -->
   <h1 class="title">AI Pangaea</h1>
-  <h2 class="subtitle">Unifying Intelligence Islands for
-Adapting Myriad Tasks</h2>
+  <h2 class="subtitle">Unifying Intelligence Islands for Adapting Myriad Tasks</h2>
   
   <!-- Hero 图 -->
   <img src="/assets/img/Intelligence Islands.png" 
        alt="Pangaea Banner" 
        style="max-width:85%; border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1); margin-bottom:25px;">
-
-  
-
+       
   <!-- 按钮 -->
   <div style="margin-top:15px;">
     <a href="https://arxiv.org/abs/xxx" class="btn btn-primary" style="margin:5px;">📄 Paper</a>
