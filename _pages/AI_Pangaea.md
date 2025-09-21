@@ -87,6 +87,7 @@ Built to follow scaling laws beyond a single modality, Pangaea demonstrates **ro
 
 If you find **Pangaea** useful for your research, please cite our work:
 
+````markdown
 ```bibtex
 @article{pangaea2025,
   title   = {Pangaea: A Unified Multimodal Framework},
