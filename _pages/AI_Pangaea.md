@@ -11,7 +11,7 @@ classes: wide-page
 <section class="hero" style="text-align:center; padding:40px 20px;">
 
   <!-- Hero 图 -->
-  <img src="/assets/img/pangaea_banner.png" 
+  <img src="/assets/img/Intelligence Islands.png" 
        alt="Pangaea Banner" 
        style="max-width:85%; border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1); margin-bottom:25px;">
 
