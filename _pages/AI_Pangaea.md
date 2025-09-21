@@ -65,7 +65,7 @@ nav_order: 1
 
 ---
 
-## 🌐 Cross-Modal Learning {#cross-modal}
+## 🌐 Unified Data Learning {#cross-modal}
 <figure style="margin: 0; text-align: center;">
   <img src="/assets/img/cross-modal_pretraining.png" 
        style="width:100%; height:auto; display:block; margin:0;">
@@ -77,7 +77,7 @@ Pangaea seamlessly integrates multiple modalities—text, time-series, and struc
 
 ---
 
-## 🔬 Real-World Impact {#real-world}
+## 🔬 Knowledge Transfer {#real-world}
 <div style="display:flex; flex-wrap:wrap; justify-content:space-between; margin-bottom:20px;">
 
   <div style="flex:1 1 30%; margin:5px; height:400px; overflow:hidden; border-radius:8px;">
@@ -101,7 +101,7 @@ Pangaea seamlessly integrates multiple modalities—text, time-series, and struc
 </div>
 ---
 
-## 📈 Scalable & Robust {#scalable}
+## 📈 Scalable Effect {#scalable}
 <figure style="margin: 0; text-align: center;">
   <img src="/assets/img/scaling.png" 
        style="width:100%; height:auto; display:block; margin:0;">
