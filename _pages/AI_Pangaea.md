@@ -18,7 +18,7 @@ nav_order: 1
        alt="Pangaea Banner" 
        style="width:100%; height:auto; display:block; margin:0;">
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
-    a. AI models build intelligence from data relying on modality-specific data encodings, leading to Intelligence Islands; b. Pangaea unifies Intelligence Islands through unified data encoding, constructing an AI supercontinent.
+    a, AI models build intelligence from data relying on modality-specific data encodings, leading to Intelligence Islands; b, Pangaea unifies Intelligence Islands through unified data encoding, constructing an AI supercontinent.
   </figcaption>
 </figure>
 
@@ -66,7 +66,13 @@ nav_order: 1
 ---
 
 ## 🌐 Cross-Modal Learning {#cross-modal}
-![Cross Modal](/assets/img/cross-modal_pretraining.png)
+<figure style="margin: 0; text-align: center;">
+  <img src="/assets/img/cross-modal_pretraining.png" 
+       style="width:100%; height:auto; display:block; margin:0;">
+  <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
+    a, Pangaea architecture; b, Pre-training dataset. c, Sample and feature distributions of table datasets for pre-training. d, Pre-training convergence curve of Pangaea.
+  </figcaption>
+</figure>
 Pangaea seamlessly integrates multiple modalities—text, time-series, and structured data—allowing knowledge transfer across domains that were once isolated.
 
 ---
@@ -96,7 +102,13 @@ Pangaea seamlessly integrates multiple modalities—text, time-series, and struc
 ---
 
 ## 📈 Scalable & Robust {#scalable}
-![Scaling](/assets/img/scaling.png)
+<figure style="margin: 0; text-align: center;">
+  <img src="/assets/img/scaling.png" 
+       style="width:100%; height:auto; display:block; margin:0;">
+  <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
+    a, Scaling effect of pre-training modalities; b, Scaling effect of unseen modalities. c, Affinity phenomenon of modality.
+  </figcaption>
+</figure>
 Built to follow scaling laws beyond a single modality, Pangaea demonstrates **robust generalization** and opens new frontiers for research in multimodal intelligence.
 
 ---
