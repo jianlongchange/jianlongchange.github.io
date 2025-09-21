@@ -6,51 +6,32 @@ nav: true
 nav_order: 1
 classes: wide-page
 ---
-# Pangaea — Unified Foundation Model
 
 <section class="hero" style="text-align:center; padding:40px 20px;">
-
+  <!-- 项目名 -->
+  <h1 class="title">AI Pangaea</h1>
+  <h2 class="subtitle">Unifying Intelligence Islands for
+Adapting Myriad Tasks</h2>
+  
   <!-- Hero 图 -->
   <img src="/assets/img/Intelligence Islands.png" 
        alt="Pangaea Banner" 
        style="max-width:85%; border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1); margin-bottom:25px;">
 
-  <!-- 项目名 -->
-  <h1 class="title">Pangaea</h1>
-  <h2 class="subtitle">Unifying Intelligence Islands</h2>
-
-  <!-- tagline -->
-  <p class="tagline" style="font-size:18px; font-style:italic; color:rgba(0,0,0,0.6); margin-bottom:20px;">
-    A foundation model integrating knowledge across modalities — enabling advances in drug discovery,
-    climate modeling, geoscience, and medical diagnosis.
-  </p>
-
-  <!-- 作者 & 机构 -->
-  <p>
-    <a href="https://alice.com">Alice</a><sup>1</sup>,
-    <a href="https://bob.com">Bob</a><sup>2</sup>,
-    <a href="https://carol.com">Carol</a><sup>1</sup>
-  </p>
-  <p style="font-size: 16px; color: rgba(0,0,0,0.6);">
-    <sup>1</sup> Institution A &nbsp;&nbsp; <sup>2</sup> Institution B
-  </p>
+  
 
   <!-- 按钮 -->
   <div style="margin-top:15px;">
     <a href="https://arxiv.org/abs/xxx" class="btn btn-primary" style="margin:5px;">📄 Paper</a>
-    <a href="https://github.com/xxx" class="btn btn-secondary" style="margin:5px;">💻 Code</a>
-    <a href="https://demo.xxx" class="btn btn-info" style="margin:5px;">📊 Demo</a>
   </div>
+
+  <!-- tagline -->
+  <p class="tagline" style="font-size:18px; font-style:italic; color:rgba(0,0,0,0.6); margin-bottom:20px;">
+    The pursuit of artificial general intelligence continuously demands generalization in one model across myriad tasks, even those not seen before. However, current AI models are isolated from each other for being limited to specific tasks, now first defined as Intelligence Islands. To unify Intelligence Islands into one, we propose Pangaea, the first AI supercontinent akin to the geological Pangaea. Pangaea encodes any data into a unified format and accumulates universal knowledge through pre-training on 296 datasets across diverse modalities. Eventually, it demonstrates remarkable generalization across 45 general tasks and 15 scientific tasks encompassing a wide range of scientific subjects. By investigating Pangaea deeper, the scaling effect of modality is revealed, quantifying the universal knowledge accumulation across modalities as the cumulative distribution function of a geometric distribution. On the whole, Pangaea shows strong potential to handle myriad tasks, indicating a new direction toward artificial general intelligence.
+  </p>
 </section>
 
----
 
-## Abstract
-
-Pangaea is a unified foundation model designed to bridge the gap across modalities, enabling transfer of knowledge 
-between domains such as drug discovery, weather forecasting, geological prospecting, and disease diagnosis. 
-By aligning heterogeneous data into a shared representational space, Pangaea demonstrates superior performance 
-compared to single-modality baselines.
 
 ---
 
@@ -74,21 +55,6 @@ compared to single-modality baselines.
 </div>
 
 </div>
-
----
-
-## Resources
-
-- 📄 [Paper on arXiv](https://arxiv.org/abs/xxx)  
-- 💻 [Code on GitHub](https://github.com/xxx)  
-- 📊 [Dataset](https://dataset.xxx)  
-- 🌐 [Interactive Demo](https://demo.xxx)  
-
----
-
-## Demo Preview
-
-![Demo Screenshot](/assets/img/demo_preview.png)
 
 ---
 
