@@ -42,21 +42,21 @@ nav_order: 1
 
 <a href="#cross-modal" style="text-decoration:none; color:inherit; flex:1; min-width:250px; margin:15px;">
   <div class="feature-card" style="padding:20px; border:1px solid #eee; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.05); transition: transform 0.2s;">
-    <h3>🌐 Cross-Modal Learning</h3>
+    <h4>🌐 Unified Data Learning</h4>
     <p>Pangaea unifies text, time-series, and structured data, enabling transfer across domains.</p>
   </div>
 </a>
 
 <a href="#real-world" style="text-decoration:none; color:inherit; flex:1; min-width:250px; margin:15px;">
   <div class="feature-card" style="padding:20px; border:1px solid #eee; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.05); transition: transform 0.2s;">
-    <h3>🔬 Real-World Impact</h3>
+    <h4>🔬 Knowledge Transfer</h4>
     <p>Validated on diverse tasks from drug discovery to geological prospecting and disease diagnosis.</p>
   </div>
 </a>
 
 <a href="#scalable" style="text-decoration:none; color:inherit; flex:1; min-width:250px; margin:15px;">
   <div class="feature-card" style="padding:20px; border:1px solid #eee; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.05); transition: transform 0.2s;">
-    <h3>📈 Scalable & Robust</h3>
+    <h4>📈 Scaling Effect</h4>
     <p>Designed to follow scaling laws beyond single modalities, unlocking new research frontiers.</p>
   </div>
 </a>
@@ -66,7 +66,7 @@ nav_order: 1
 ---
 
 ## 🌐 Cross-Modal Learning {#cross-modal}
-![Cross Modal](assets/images/cross-modal.png)
+![Cross Modal](/assets/img/cross-modal_pretraining.png)
 Pangaea seamlessly integrates multiple modalities—text, time-series, and structured data—allowing knowledge transfer across domains that were once isolated.
 
 ---
@@ -75,30 +75,28 @@ Pangaea seamlessly integrates multiple modalities—text, time-series, and struc
 <div style="display:flex; flex-wrap:wrap; justify-content:space-between; margin-bottom:20px;">
 
   <div style="flex:1 1 30%; margin:5px; height:200px; overflow:hidden; border-radius:8px;">
-    <img src="assets/img/sci1.png" alt="Application 1" 
+    <img src="/assets/img/sci1.png" alt="Application 1" 
          style="width:100%; height:100%; object-fit:cover;">
     <p style="text-align:center; font-size:0.9em; color:#666; margin-top:5px;">Drug Discovery</p>
   </div>
 
   <div style="flex:1 1 30%; margin:5px; height:200px; overflow:hidden; border-radius:8px;">
-    <img src="assets/img/sci2.png" alt="Application 2" 
+    <img src="/assets/img/sci2.png" alt="Application 2" 
          style="width:100%; height:100%; object-fit:cover;">
     <p style="text-align:center; font-size:0.9em; color:#666; margin-top:5px;">Geological Prospecting</p>
   </div>
 
   <div style="flex:1 1 30%; margin:5px; height:200px; overflow:hidden; border-radius:8px;">
-    <img src="assets/img/sci3.png" alt="Application 3" 
+    <img src="/assets/img/sci3.png" alt="Application 3" 
          style="width:100%; height:100%; object-fit:cover;">
     <p style="text-align:center; font-size:0.9em; color:#666; margin-top:5px;">Disease Diagnosis</p>
   </div>
 
 </div>
-
-
 ---
 
 ## 📈 Scalable & Robust {#scalable}
-![Scaling](assets/images/scaling.png)
+![Scaling](/assets/img/scaling.png)
 Built to follow scaling laws beyond a single modality, Pangaea demonstrates **robust generalization** and opens new frontiers for research in multimodal intelligence.
 
 ---
@@ -107,11 +105,13 @@ Built to follow scaling laws beyond a single modality, Pangaea demonstrates **ro
 
 If you find **Pangaea** useful for your research, please cite our work:
 
-````markdown
-```bibtex
+<pre style="background:#f7f7f7; padding:15px; border-radius:8px; overflow:auto;">
+<code>
 @article{pangaea2025,
   title   = {Pangaea: A Unified Multimodal Framework},
   author  = {First Author and Second Author and Others},
   journal = {arXiv preprint arXiv:xxxx.xxxxx},
   year    = {2025}
 }
+</code>
+</pre>
