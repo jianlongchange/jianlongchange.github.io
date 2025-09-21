@@ -80,19 +80,19 @@ Pangaea seamlessly integrates multiple modalities—text, time-series, and struc
 ## 🔬 Real-World Impact {#real-world}
 <div style="display:flex; flex-wrap:wrap; justify-content:space-between; margin-bottom:20px;">
 
-  <div style="flex:1 1 30%; margin:5px; height:200px; overflow:hidden; border-radius:8px;">
+  <div style="flex:1 1 30%; margin:5px; height:400px; overflow:hidden; border-radius:8px;">
     <img src="/assets/img/sci1.png" alt="Application 1" 
          style="width:100%; height:100%; object-fit:cover;">
     <p style="text-align:center; font-size:0.9em; color:#666; margin-top:5px;">Drug Discovery</p>
   </div>
 
-  <div style="flex:1 1 30%; margin:5px; height:200px; overflow:hidden; border-radius:8px;">
+  <div style="flex:1 1 30%; margin:5px; height:400px; overflow:hidden; border-radius:8px;">
     <img src="/assets/img/sci2.png" alt="Application 2" 
          style="width:100%; height:100%; object-fit:cover;">
     <p style="text-align:center; font-size:0.9em; color:#666; margin-top:5px;">Geological Prospecting</p>
   </div>
 
-  <div style="flex:1 1 30%; margin:5px; height:200px; overflow:hidden; border-radius:8px;">
+  <div style="flex:1 1 30%; margin:5px; height:400px; overflow:hidden; border-radius:8px;">
     <img src="/assets/img/sci3.png" alt="Application 3" 
          style="width:100%; height:100%; object-fit:cover;">
     <p style="text-align:center; font-size:0.9em; color:#666; margin-top:5px;">Disease Diagnosis</p>
