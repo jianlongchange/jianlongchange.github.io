@@ -23,9 +23,9 @@ nav_order: 1
 </figure>
 
 <!-- tagline / 背景介绍 -->
-<div style="text-align:center; margin-top:35px; margin-bottom:40px;">
-  <p style="font-size:1.15em; color:#444; max-width:900px; margin:0 auto 25px auto; line-height:1.55;">
-    The pursuit of artificial general intelligence continuously demands generalization in one model across myriad tasks, even those not seen before. However, current AI models are isolated from each other for being limited to specific tasks, now first defined as <em>Intelligence Islands</em>. To unify Intelligence Islands into one, we propose <strong>Pangaea</strong>, the first AI supercontinent akin to the geological Pangaea.
+<div style="text-align:left; margin-top:35px; margin-bottom:40px;">
+  <p style="font-size:1.15em; color:#444; max-width:1000px; margin:0 auto 25px auto; line-height:1.55;">
+    The pursuit of artificial general intelligence continuously demands generalization in one model across myriad tasks, even those not seen before. However, current AI models are isolated from each other for being limited to specific tasks, now first defined as <em>Intelligence Islands</em>. To unify Intelligence Islands into one, we propose <strong>Pangaea</strong>, the first AI supercontinent akin to the geological Pangaea. Pangaea encodes any data into a unified format and accumulates universal knowledge through pre-training on 296 datasets across diverse modalities. Eventually, it demonstrates remarkable generalization across 45 general tasks and 15 scientific tasks encompassing a wide range of scientific subjects. By investigating Pangaea deeper, the scaling effect of modality is revealed, quantifying the universal knowledge accumulation across modalities as the cumulative distribution function of a geometric distribution. On the whole, Pangaea shows strong potential to handle myriad tasks, indicating a new direction toward artificial general intelligence.
   </p>
 </div>
 
