@@ -24,14 +24,14 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "Projects",
+          title: "projects",
           description: "Some important AI solutions.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-honors",
-          title: "Honors",
+          title: "honors",
           description: "",
           section: "Navigation",
           handler: () => {
