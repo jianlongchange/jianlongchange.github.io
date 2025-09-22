@@ -25,7 +25,7 @@ nav_order: 1
 <!-- tagline / 背景介绍 -->
 <div style="text-align:left; margin-top:35px; margin-bottom:40px;">
   <p style="font-size:1.15em; color:#444; margin:0 auto 25px auto; line-height:1.55;">
-    The pursuit of artificial general intelligence continuously demands generalization in one model across myriad tasks, even those not seen before. However, current AI models are isolated from each other for being limited to specific tasks, now first defined as <em>Intelligence Islands</em>. To unify Intelligence Islands into one, we propose <strong>Pangaea</strong>, the first AI supercontinent akin to the geological Pangaea. Pangaea encodes any data into a unified format and accumulates universal knowledge through pre-training on datasets across diverse modalities.
+    The pursuit of artificial general intelligence continuously demands generalization in one model across myriad tasks, even those not seen before. However, current AI models are isolated from each other for being limited to specific tasks, now first defined as <em>Intelligence Islands</em>. To unify Intelligence Islands into one, we propose <strong>Pangaea</strong>, the first AI supercontinent akin to the geological Pangaea. Pangaea encodes any data into a unified format and accumulates universal knowledge through pre-training on 296 datasets across diverse modalities. Eventually, it demonstrates remarkable generalization across 45 general tasks and 15 scientific tasks encompassing a wide range of scientific subjects. By investigating Pangaea deeper, the scaling effect of modality is revealed, quantifying the universal knowledge accumulation across modalities as the cumulative distribution function of a geometric distribution. On the whole, Pangaea shows strong potential to handle myriad tasks, indicating a new direction toward artificial general intelligence.
   </p>
 </div>
 
@@ -68,7 +68,7 @@ nav_order: 1
   <a href="#unified-encoding" style="text-decoration:none; color:inherit;">
     <div class="highlight-box">
       <h3>🗂️ Unified Data Encoding</h3>
-      <p>A universal representation that aligns diverse modalities into a shared space.</p>
+      <p>A unified representation that maps diverse modalities into a shared space.</p>
     </div>
   </a>
 
@@ -135,21 +135,21 @@ nav_order: 1
   <img src="/assets/img/sci1.png" 
        style="width:100%; height:auto; display:block; margin:0;">
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
-    a, Scaling effect of pre-training modalities; b, Scaling effect of unseen modalities. c, Affinity phenomenon of modality.
+    a, Overview of the performance comparison between Pangaea and competitive models on all 15 scientific tasks. b-e, Pangaea is applied in Health and Biological sciences.
   </figcaption>
 </figure>
 <figure style="margin: 0; text-align: center;">
   <img src="/assets/img/sci2.png" 
        style="width:100%; height:auto; display:block; margin:0;">
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
-    a, Scaling effect of pre-training modalities; b, Scaling effect of unseen modalities. c, Affinity phenomenon of modality.
+    a-f, Pangaea is applied in Earth and environmental, and Physical sciences.
   </figcaption>
 </figure>
 <figure style="margin: 0; text-align: center;">
   <img src="/assets/img/sci3.png" 
        style="width:100%; height:auto; display:block; margin:0;">
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
-    a, Scaling effect of pre-training modalities; b, Scaling effect of unseen modalities. c, Affinity phenomenon of modality.
+    a-e, Pangaea is applied in Business and commerce, Humanities, Astronomy, Mathematical, and Social sciences.
   </figcaption>
 </figure>
 
