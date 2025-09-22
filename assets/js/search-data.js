@@ -17,21 +17,21 @@ ninja.data = [{
             window.location.href = "/AI_Pangaea/";
           },
         },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "Present some selected important publications. See my Google Scholar for more details.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "Some important AI solutions.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-honors",
-          title: "honors",
+          title: "Honors",
           description: "",
           section: "Navigation",
           handler: () => {
