@@ -36,30 +36,61 @@ nav_order: 1
 </p>
 ---
 
-## Highlights
+<h2 style="text-align:center; font-size:2em; margin-bottom:20px;">✨ Highlights</h2>
 
-<div class="features" style="display:flex; justify-content:space-around; flex-wrap:wrap;">
+<style>
+  .highlight-box {
+    background: #f9f9f9;
+    border-radius: 12px;
+    padding: 16px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+    text-align: center;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+  }
+  .highlight-box:hover {
+    transform: translateY(-4px) scale(1.02);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    background: #ffffff;
+  }
+</style>
 
-<a href="#cross-modal" style="text-decoration:none; color:inherit; flex:1; min-width:250px; margin:15px;">
-  <div class="feature-card" style="padding:20px; border:1px solid #eee; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.05); transition: transform 0.2s;">
-    <h4>🌐 Unified Data Learning</h4>
-    <p>Pangaea unifies text, time-series, and structured data, enabling transfer across domains.</p>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; font-family: Arial, sans-serif; font-size: 14px; line-height: 1.5;">
+  
+  <div class="highlight-box">
+    <div style="font-size: 24px; margin-bottom: 8px;">🗂️</div>
+    <div style="font-weight: bold; margin-bottom: 6px;">Unified Data Encoding</div>
+    <div>A universal representation that aligns diverse modalities into a shared space.</div>
   </div>
-</a>
-
-<a href="#real-world" style="text-decoration:none; color:inherit; flex:1; min-width:250px; margin:15px;">
-  <div class="feature-card" style="padding:20px; border:1px solid #eee; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.05); transition: transform 0.2s;">
-    <h4>🔬 Knowledge Transfer</h4>
-    <p>Validated on diverse tasks from drug discovery to geological prospecting and disease diagnosis.</p>
+  
+  <div class="highlight-box">
+    <div style="font-size: 24px; margin-bottom: 8px;">🔄</div>
+    <div style="font-weight: bold; margin-bottom: 6px;">Cross-Modal Learning</div>
+    <div>Knowledge flows seamlessly across modalities, enhancing generalization.</div>
   </div>
-</a>
-
-<a href="#scalable" style="text-decoration:none; color:inherit; flex:1; min-width:250px; margin:15px;">
-  <div class="feature-card" style="padding:20px; border:1px solid #eee; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.05); transition: transform 0.2s;">
-    <h4>📈 Scaling Effect</h4>
-    <p>Designed to follow scaling laws beyond single modalities, unlocking new research frontiers.</p>
+  
+  <div class="highlight-box">
+    <div style="font-size: 24px; margin-bottom: 8px;">🔗</div>
+    <div style="font-weight: bold; margin-bottom: 6px;">Knowledge Transfer</div>
+    <div>Capabilities learned in one domain accelerate progress in another.</div>
   </div>
-</a>
+  
+  <div class="highlight-box">
+    <div style="font-size: 24px; margin-bottom: 8px;">🧪</div>
+    <div style="font-weight: bold; margin-bottom: 6px;">Scientific Discovery</div>
+    <div>Applied to drug design, weather forecasting, geology, and medical diagnosis.</div>
+  </div>
+  
+  <div class="highlight-box">
+    <div style="font-size: 24px; margin-bottom: 8px;">📈</div>
+    <div style="font-weight: bold; margin-bottom: 6px;">Scaling Effect</div>
+    <div>Revealing new scaling behaviors when expanding across multiple modalities.</div>
+  </div>
+  
+  <div class="highlight-box">
+    <div style="font-size: 24px; margin-bottom: 8px;">💞</div>
+    <div style="font-weight: bold; margin-bottom: 6px;">Modality Affinity</div>
+    <div>Capturing hidden relationships among modalities to improve learning synergy.</div>
+  </div>
 
 </div>
 
