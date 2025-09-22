@@ -25,7 +25,7 @@ nav_order: 1
 <!-- tagline / 背景介绍 -->
 <div style="text-align:left; margin-top:35px; margin-bottom:40px;">
   <p style="font-size:1.15em; color:#444; margin:0 auto 25px auto; line-height:1.55;">
-    The pursuit of artificial general intelligence (AGI) continuously demands generalization in one model across myriad tasks, even those not seen before. However, current AI models are isolated from each other for being limited to specific tasks, now first defined as <em>Intelligence Islands</em>. To unify Intelligence Islands into one, we propose <strong>Pangaea</strong>, the first AI supercontinent akin to the geological Pangaea. Pangaea encodes any data into a unified format and accumulates universal knowledge through pre-training on datasets across diverse modalities.
+    The pursuit of artificial general intelligence continuously demands generalization in one model across myriad tasks, even those not seen before. However, current AI models are isolated from each other for being limited to specific tasks, now first defined as <em>Intelligence Islands</em>. To unify Intelligence Islands into one, we propose <strong>Pangaea</strong>, the first AI supercontinent akin to the geological Pangaea. Pangaea encodes any data into a unified format and accumulates universal knowledge through pre-training on datasets across diverse modalities.
   </p>
 </div>
 
@@ -36,7 +36,7 @@ nav_order: 1
 </p>
 ---
 
-<h2 style="text-align:center; font-size:2em; margin-bottom:20px;">✨ Highlights</h2>
+## ✨ Highlights
 
 <style>
   .highlight-box {
@@ -44,59 +44,76 @@ nav_order: 1
     border-radius: 12px;
     padding: 16px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-    text-align: center;
     transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+    text-align: left;
   }
   .highlight-box:hover {
     transform: translateY(-4px) scale(1.02);
     box-shadow: 0 6px 12px rgba(0,0,0,0.15);
     background: #ffffff;
   }
+  .highlight-box h3 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 6px;
+  }
+  .highlight-box p {
+    font-size: 14px;
+    margin: 0;
+  }
 </style>
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; font-family: Arial, sans-serif; font-size: 14px; line-height: 1.5;">
-  
-  <div class="highlight-box">
-    <div style="font-size: 24px; margin-bottom: 8px;">🗂️</div>
-    <div style="font-weight: bold; margin-bottom: 6px;">Unified Data Encoding</div>
-    <div>A universal representation that aligns diverse modalities into a shared space.</div>
-  </div>
-  
-  <div class="highlight-box">
-    <div style="font-size: 24px; margin-bottom: 8px;">🔄</div>
-    <div style="font-weight: bold; margin-bottom: 6px;">Cross-Modal Learning</div>
-    <div>Knowledge flows seamlessly across modalities, enhancing generalization.</div>
-  </div>
-  
-  <div class="highlight-box">
-    <div style="font-size: 24px; margin-bottom: 8px;">🔗</div>
-    <div style="font-weight: bold; margin-bottom: 6px;">Knowledge Transfer</div>
-    <div>Capabilities learned in one domain accelerate progress in another.</div>
-  </div>
-  
-  <div class="highlight-box">
-    <div style="font-size: 24px; margin-bottom: 8px;">🧪</div>
-    <div style="font-weight: bold; margin-bottom: 6px;">Scientific Discovery</div>
-    <div>Applied to drug design, weather forecasting, geology, and medical diagnosis.</div>
-  </div>
-  
-  <div class="highlight-box">
-    <div style="font-size: 24px; margin-bottom: 8px;">📈</div>
-    <div style="font-weight: bold; margin-bottom: 6px;">Scaling Effect</div>
-    <div>Revealing new scaling behaviors when expanding across multiple modalities.</div>
-  </div>
-  
-  <div class="highlight-box">
-    <div style="font-size: 24px; margin-bottom: 8px;">💞</div>
-    <div style="font-weight: bold; margin-bottom: 6px;">Modality Affinity</div>
-    <div>Capturing hidden relationships among modalities to improve learning synergy.</div>
-  </div>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+
+  <a href="#unified-encoding" style="text-decoration:none; color:inherit;">
+    <div class="highlight-box">
+      <h3>🗂️ Unified Data Encoding</h3>
+      <p>A universal representation that aligns diverse modalities into a shared space.</p>
+    </div>
+  </a>
+
+  <a href="#cross-modal-learning" style="text-decoration:none; color:inherit;">
+    <div class="highlight-box">
+      <h3>🔄 Cross-Modal Learning</h3>
+      <p>Knowledge flows seamlessly across modalities, enhancing generalization.</p>
+    </div>
+  </a>
+
+  <a href="#knowledge-transfer" style="text-decoration:none; color:inherit;">
+    <div class="highlight-box">
+      <h3>🔗 Knowledge Transfer</h3>
+      <p>Capabilities learned in one domain accelerate progress in another.</p>
+    </div>
+  </a>
+
+  <a href="#scientific-discovery" style="text-decoration:none; color:inherit;">
+    <div class="highlight-box">
+      <h3>🧪 Scientific Discovery</h3>
+      <p>Applied to drug design, weather forecasting, geology, and medical diagnosis.</p>
+    </div>
+  </a>
+
+  <a href="#scaling-effect" style="text-decoration:none; color:inherit;">
+    <div class="highlight-box">
+      <h3>📈 Scaling Effect</h3>
+      <p>Revealing new scaling behaviors when expanding across multiple modalities.</p>
+    </div>
+  </a>
+
+  <a href="#modality-affinity" style="text-decoration:none; color:inherit;">
+    <div class="highlight-box">
+      <h3>💞 Modality Affinity</h3>
+      <p>Capturing hidden relationships among modalities to improve learning synergy.</p>
+    </div>
+  </a>
 
 </div>
 
 ---
 
-## 🌐 Unified Data Learning {#cross-modal}
+## 🗂️ Unified Data Encoding {#unified-encoding}
+
+## 🔄 Cross-Modal Learning {#cross-modal-learning}
 <figure style="margin: 0; text-align: center;">
   <img src="/assets/img/cross-modal_pretraining.png" 
        style="width:100%; height:auto; display:block; margin:0;">
@@ -106,33 +123,33 @@ nav_order: 1
 </figure>
 Pangaea seamlessly integrates multiple modalities—text, time-series, and structured data—allowing knowledge transfer across domains that were once isolated.
 
----
+## 🔗 Knowledge Transfer {#knowledge-transfer}
 
-## 🔬 Knowledge Transfer {#real-world}
-<div style="display:flex; flex-wrap:wrap; justify-content:space-between; margin-bottom:20px;">
+## 🧪 Scientific Discovery {#scientific-discovery}
+<figure style="margin: 0; text-align: center;">
+  <img src="/assets/img/sci1.png" 
+       style="width:100%; height:auto; display:block; margin:0;">
+  <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
+    a, Scaling effect of pre-training modalities; b, Scaling effect of unseen modalities. c, Affinity phenomenon of modality.
+  </figcaption>
+</figure>
+<figure style="margin: 0; text-align: center;">
+  <img src="/assets/img/sci2.png" 
+       style="width:100%; height:auto; display:block; margin:0;">
+  <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
+    a, Scaling effect of pre-training modalities; b, Scaling effect of unseen modalities. c, Affinity phenomenon of modality.
+  </figcaption>
+</figure>
+<figure style="margin: 0; text-align: center;">
+  <img src="/assets/img/sci3.png" 
+       style="width:100%; height:auto; display:block; margin:0;">
+  <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
+    a, Scaling effect of pre-training modalities; b, Scaling effect of unseen modalities. c, Affinity phenomenon of modality.
+  </figcaption>
+</figure>
+Built to follow scaling laws beyond a single modality, Pangaea demonstrates **robust generalization** and opens new frontiers for research in multimodal intelligence.
 
-  <div style="flex:1 1 30%; margin:5px; height:400px; overflow:hidden; border-radius:8px;">
-    <img src="/assets/img/sci1.png" alt="Application 1" 
-         style="width:100%; height:100%; object-fit:cover;">
-    <p style="text-align:center; font-size:0.9em; color:#666; margin-top:5px;">Drug Discovery</p>
-  </div>
-
-  <div style="flex:1 1 30%; margin:5px; height:400px; overflow:hidden; border-radius:8px;">
-    <img src="/assets/img/sci2.png" alt="Application 2" 
-         style="width:100%; height:100%; object-fit:cover;">
-    <p style="text-align:center; font-size:0.9em; color:#666; margin-top:5px;">Geological Prospecting</p>
-  </div>
-
-  <div style="flex:1 1 30%; margin:5px; height:400px; overflow:hidden; border-radius:8px;">
-    <img src="/assets/img/sci3.png" alt="Application 3" 
-         style="width:100%; height:100%; object-fit:cover;">
-    <p style="text-align:center; font-size:0.9em; color:#666; margin-top:5px;">Disease Diagnosis</p>
-  </div>
-
-</div>
----
-
-## 📈 Scalable Effect {#scalable}
+## 📈 Scaling Effect {#scaling-effect}
 <figure style="margin: 0; text-align: center;">
   <img src="/assets/img/scaling.png" 
        style="width:100%; height:auto; display:block; margin:0;">
@@ -141,6 +158,9 @@ Pangaea seamlessly integrates multiple modalities—text, time-series, and struc
   </figcaption>
 </figure>
 Built to follow scaling laws beyond a single modality, Pangaea demonstrates **robust generalization** and opens new frontiers for research in multimodal intelligence.
+
+## 💞 Modality Affinity {#modality-affinity}
+
 
 ---
 
