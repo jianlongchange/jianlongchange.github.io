@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 subtitle: Scale up learning and keep searching to seek dream and explore AI.
 
