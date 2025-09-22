@@ -123,7 +123,6 @@ nav_order: 1
     a, Pangaea architecture; b, Pre-training dataset. c, Sample and feature distributions of table datasets for pre-training. d, Pre-training convergence curve of Pangaea.
   </figcaption>
 </figure>
-Pangaea seamlessly integrates multiple modalities—text, time-series, and structured data—allowing knowledge transfer across domains that were once isolated.
 
 ---
 
@@ -153,7 +152,6 @@ Pangaea seamlessly integrates multiple modalities—text, time-series, and struc
     a, Scaling effect of pre-training modalities; b, Scaling effect of unseen modalities. c, Affinity phenomenon of modality.
   </figcaption>
 </figure>
-Built to follow scaling laws beyond a single modality, Pangaea demonstrates **robust generalization** and opens new frontiers for research in multimodal intelligence.
 
 ---
 
@@ -165,7 +163,6 @@ Built to follow scaling laws beyond a single modality, Pangaea demonstrates **ro
     a, Scaling effect of pre-training modalities; b, Scaling effect of unseen modalities. c, Affinity phenomenon of modality.
   </figcaption>
 </figure>
-Built to follow scaling laws beyond a single modality, Pangaea demonstrates **robust generalization** and opens new frontiers for research in multimodal intelligence.
 
 ---
 
