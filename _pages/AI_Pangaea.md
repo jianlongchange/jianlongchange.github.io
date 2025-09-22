@@ -113,6 +113,8 @@ nav_order: 1
 
 ## 🗂️ Unified Data Encoding {#unified-encoding}
 
+---
+
 ## 🔄 Cross-Modal Learning {#cross-modal-learning}
 <figure style="margin: 0; text-align: center;">
   <img src="/assets/img/cross-modal_pretraining.png" 
@@ -123,7 +125,11 @@ nav_order: 1
 </figure>
 Pangaea seamlessly integrates multiple modalities—text, time-series, and structured data—allowing knowledge transfer across domains that were once isolated.
 
+---
+
 ## 🔗 Knowledge Transfer {#knowledge-transfer}
+
+---
 
 ## 🧪 Scientific Discovery {#scientific-discovery}
 <figure style="margin: 0; text-align: center;">
@@ -149,6 +155,8 @@ Pangaea seamlessly integrates multiple modalities—text, time-series, and struc
 </figure>
 Built to follow scaling laws beyond a single modality, Pangaea demonstrates **robust generalization** and opens new frontiers for research in multimodal intelligence.
 
+---
+
 ## 📈 Scaling Effect {#scaling-effect}
 <figure style="margin: 0; text-align: center;">
   <img src="/assets/img/scaling.png" 
@@ -158,6 +166,8 @@ Built to follow scaling laws beyond a single modality, Pangaea demonstrates **ro
   </figcaption>
 </figure>
 Built to follow scaling laws beyond a single modality, Pangaea demonstrates **robust generalization** and opens new frontiers for research in multimodal intelligence.
+
+---
 
 ## 💞 Modality Affinity {#modality-affinity}
 
