@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/projects/";
           },
         },{id: "nav-honors",
-          title: "honors",
+          title: "Honors",
           description: "",
           section: "Navigation",
           handler: () => {
