@@ -5,10 +5,10 @@
       items:
         - Huawei Individual Gold Medal Award, Huawei’s Highest Individual Award, Top 1%.
         - Wu Wenjun Outstanding Doctoral Dissertation Award, National Top Ten Annually.
-        - CAS Outstanding Doctoral Dissertation Award.
-        - Huawei Talented Youth.
+        - CAS Outstanding Doctoral Dissertation Award, Chinese Academy of Sciences.
+        - Huawei Talented Youth, Huawei.
         - Baidu Scholarship, Global Top Ten Annually.
-        - CAS President’s Award.
+        - CAS President’s Award, Chinese Academy of Sciences.
 
 - title: Team Awards
   type: nested_list
