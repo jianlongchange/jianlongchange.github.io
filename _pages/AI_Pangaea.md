@@ -124,7 +124,7 @@ nav_order: 1
 
 ## 🔄 Cross-Modal Learning {#cross-modal-learning}
 <figure style="margin: 0; text-align: center;">
-  <img src="/assets/img/cross-modal_learning.png" 
+  <img src="/assets/img/cross_modal_learning.png" 
        style="width:100%; height:auto; display:block; margin:0;">
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
     a, Pangaea architecture; b, Pre-training dataset. c, Sample and feature distributions of table datasets for pre-training. d, Pre-training convergence curve of Pangaea.
