@@ -18,7 +18,7 @@ nav_order: 1
        alt="Pangaea Banner" 
        style="width:100%; height:auto; display:block; margin:0;">
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
-    a, AI models build intelligence from data relying on modality-specific data encodings, leading to Intelligence Islands; b, Pangaea unifies Intelligence Islands through unified data encoding, constructing an AI supercontinent.
+    a, AI models build intelligence from data relying on modality-specific data encodings, leading to Intelligence Islands. b, Pangaea unifies Intelligence Islands through unified data encoding, constructing an AI supercontinent.
   </figcaption>
 </figure>
 
@@ -39,13 +39,26 @@ nav_order: 1
 ## ✨ Highlights
 
 <style>
+  .highlights {
+    display: flex;
+    justify-content: center; /* 居中对齐 box */
+    flex-wrap: wrap;
+    gap: 20px;
+    margin: 30px auto;
+    width: 100%;
+  }
   .highlight-box {
+    flex: 1;
+    min-width: 250px;
+    max-width: 320px;
     background: #f9f9f9;
     border-radius: 12px;
     padding: 16px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.08);
     transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
     text-align: left;
+    text-decoration: none;
+    color: inherit;
   }
   .highlight-box:hover {
     transform: translateY(-4px) scale(1.02);
@@ -63,33 +76,33 @@ nav_order: 1
   }
 </style>
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+<div class="highlights">
 
   <a href="#unified-encoding" style="text-decoration:none; color:inherit;">
     <div class="highlight-box">
       <h3>🗂️ Unified Data Encoding</h3>
-      <p>A unified representation that maps diverse modalities into a shared space.</p>
+      <p>A unified triplet-based representation that maps diverse modalities into a shared space.</p>
     </div>
   </a>
 
   <a href="#cross-modal-learning" style="text-decoration:none; color:inherit;">
     <div class="highlight-box">
       <h3>🔄 Cross-Modal Learning</h3>
-      <p>Knowledge flows seamlessly across modalities, enhancing generalization.</p>
+      <p>Unified learning across multiple modalities, accumulating universal knowledge.</p>
     </div>
   </a>
 
   <a href="#knowledge-transfer" style="text-decoration:none; color:inherit;">
     <div class="highlight-box">
       <h3>🔗 Knowledge Transfer</h3>
-      <p>Capabilities learned in one domain accelerate progress in another.</p>
+      <p>The universal knowledge learned from pre-training benefits downstream tasks.</p>
     </div>
   </a>
 
   <a href="#scientific-discovery" style="text-decoration:none; color:inherit;">
     <div class="highlight-box">
       <h3>🧪 Scientific Discovery</h3>
-      <p>Applied to drug design, weather forecasting, geology, and medical diagnosis.</p>
+      <p>Applied to 15 scientific tasks spanning diverse scientific subjects.</p>
     </div>
   </a>
 
@@ -103,7 +116,7 @@ nav_order: 1
   <a href="#modality-affinity" style="text-decoration:none; color:inherit;">
     <div class="highlight-box">
       <h3>💞 Modality Affinity</h3>
-      <p>Capturing hidden relationships among modalities to improve learning synergy.</p>
+      <p>Different modality combinations contribute to varying degrees of gains.</p>
     </div>
   </a>
 
@@ -138,32 +151,32 @@ nav_order: 1
   <img src="/assets/img/knowledge_transfer.png" 
        style="width:100%; height:auto; display:block; margin:0;">
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
-    a, Pangaea architecture; b, Pre-training dataset. c, Sample and feature distributions of table datasets for pre-training. d, Pre-training convergence curve of Pangaea.
+    Performances of Pangaea exceed those of both Pangaea_w/o and competitive models across 45 downstream tasks, demonstrating the pre-training knowledge transfer.
   </figcaption>
 </figure>
 
 ---
 
 ## 🧪 Scientific Discovery {#scientific-discovery}
-<figure style="margin: 0; text-align: center;">
+<figure style="margin-bottom:20px; text-align: center;">
   <img src="/assets/img/sci1.png" 
        style="width:100%; height:auto; display:block; margin:0;">
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
-    a, Overview of the performance comparison between Pangaea and competitive models on all 15 scientific tasks. b-e, Pangaea is applied in Health and Biological sciences.
+    a, Overview of the performance comparison between Pangaea and competitive models on all 15 scientific tasks. b-e, Pangaea is applied in Health and Biological sciences. b, Prostate cancer grading. c, Cyclic peptide membrane permeability prediction. d, Drug molecule toxicity prediction. e, Blood-brain barrier penetration prediction.
   </figcaption>
 </figure>
-<figure style="margin: 0; text-align: center;">
+<figure style="margin-bottom:20px; text-align: center;">
   <img src="/assets/img/sci2.png" 
        style="width:100%; height:auto; display:block; margin:0;">
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
-    a-f, Pangaea is applied in Earth and environmental, and Physical sciences.
+    a-f, Pangaea is applied in Earth and environmental, and Physical sciences. a, Worldwide temperature forecasting. b, High-energy particle identification. c, Marine mammal vocalization classification. d, Molecule electronic property prediction. e, Reservoir property estimation. f, Material band gap prediction.
   </figcaption>
 </figure>
-<figure style="margin: 0; text-align: center;">
+<figure style="margin-bottom:20px; text-align: center;">
   <img src="/assets/img/sci3.png" 
        style="width:100%; height:auto; display:block; margin:0;">
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
-    a-e, Pangaea is applied in Business and commerce, Humanities, Astronomy, Mathematical, and Social sciences.
+    a-e, Pangaea is applied in Business and commerce, Humanities, Astronomy, Mathematical, and Social sciences. a, Stock movement prediction. b, Drug consumer type classification. c, Active galactic nuclei classification. d, Mathematical subject classification. e, Massive multitask language understanding.
   </figcaption>
 </figure>
 
@@ -185,7 +198,7 @@ nav_order: 1
   <img src="/assets/img/modality_affinity.png" 
        style="width:100%; height:auto; display:block; margin:0;">
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
-    a, Scaling effect of pre-training modalities; b, Scaling effect of unseen modalities. c, Affinity phenomenon of modality.
+    Affinity phenomenon of modality, comparing the fine-tuning performances of Pangaea across 31 pre-training modality combinations to the ones of Pangaea_w/o.
   </figcaption>
 </figure>
 
