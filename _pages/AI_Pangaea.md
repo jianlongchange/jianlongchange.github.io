@@ -126,7 +126,7 @@ nav_order: 1
 
 ## 🗂️ Unified Data Encoding {#unified-encoding}
 <figure style="margin: 0; text-align: center;">
-  <img src="/assets/img/data_encoding.png" 
+  <img src="/assets/img/data_encoding.jpg" 
        style="width:100%; height:auto; display:block; margin:0;">
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
     Data is viewed as the discretized modeling of the real world and is represented by triplets, which serve as the fundamental unit of data.
@@ -159,14 +159,14 @@ nav_order: 1
 
 ## 🧪 Scientific Discovery {#scientific-discovery}
 <figure style="margin-bottom:30px; text-align: center;">
-  <img src="/assets/img/sci1.png" 
+  <img src="/assets/img/sci1.jpg" 
        style="width:100%; height:auto; display:block; margin:0;">
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
     a, Overview of the performance comparison between Pangaea and competitive models on all 15 scientific tasks. b-e, Pangaea is applied in Health and Biological sciences. b, Prostate cancer grading. c, Cyclic peptide membrane permeability prediction. d, Drug molecule toxicity prediction. e, Blood-brain barrier penetration prediction.
   </figcaption>
 </figure>
 <figure style="margin-bottom:30px; text-align: center;">
-  <img src="/assets/img/sci2.png" 
+  <img src="/assets/img/sci2.jpg" 
        style="width:100%; height:auto; display:block; margin:0;">
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
     a-f, Pangaea is applied in Earth and environmental, and Physical sciences. a, Worldwide temperature forecasting. b, High-energy particle identification. c, Marine mammal vocalization classification. d, Molecule electronic property prediction. e, Reservoir property estimation. f, Material band gap prediction.
