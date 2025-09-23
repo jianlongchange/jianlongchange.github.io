@@ -112,12 +112,19 @@ nav_order: 1
 ---
 
 ## 🗂️ Unified Data Encoding {#unified-encoding}
+<figure style="margin: 0; text-align: center;">
+  <img src="/assets/img/data_encoding.png" 
+       style="width:100%; height:auto; display:block; margin:0;">
+  <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
+    a, Pangaea architecture; b, Pre-training dataset. c, Sample and feature distributions of table datasets for pre-training. d, Pre-training convergence curve of Pangaea.
+  </figcaption>
+</figure>
 
 ---
 
 ## 🔄 Cross-Modal Learning {#cross-modal-learning}
 <figure style="margin: 0; text-align: center;">
-  <img src="/assets/img/cross-modal_pretraining.png" 
+  <img src="/assets/img/cross-modal_learning.png" 
        style="width:100%; height:auto; display:block; margin:0;">
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
     a, Pangaea architecture; b, Pre-training dataset. c, Sample and feature distributions of table datasets for pre-training. d, Pre-training convergence curve of Pangaea.
@@ -127,6 +134,13 @@ nav_order: 1
 ---
 
 ## 🔗 Knowledge Transfer {#knowledge-transfer}
+<figure style="margin: 0; text-align: center;">
+  <img src="/assets/img/knowledge_transfer.png" 
+       style="width:100%; height:auto; display:block; margin:0;">
+  <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
+    a, Pangaea architecture; b, Pre-training dataset. c, Sample and feature distributions of table datasets for pre-training. d, Pre-training convergence curve of Pangaea.
+  </figcaption>
+</figure>
 
 ---
 
@@ -157,17 +171,23 @@ nav_order: 1
 
 ## 📈 Scaling Effect {#scaling-effect}
 <figure style="margin: 0; text-align: center;">
-  <img src="/assets/img/scaling.png" 
+  <img src="/assets/img/scaling_effect.png" 
        style="width:100%; height:auto; display:block; margin:0;">
   <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
-    a, Scaling effect of pre-training modalities; b, Scaling effect of unseen modalities. c, Affinity phenomenon of modality.
+    a, Scaling effect of pre-training modalities; b, Scaling effect of unseen modalities.
   </figcaption>
 </figure>
 
 ---
 
 ## 💞 Modality Affinity {#modality-affinity}
-
+<figure style="margin: 0; text-align: center;">
+  <img src="/assets/img/modality_affinity.png" 
+       style="width:100%; height:auto; display:block; margin:0;">
+  <figcaption style="font-size:0.9em; color:#666; margin-top:8px;">
+    a, Scaling effect of pre-training modalities; b, Scaling effect of unseen modalities. c, Affinity phenomenon of modality.
+  </figcaption>
+</figure>
 
 ---
 
