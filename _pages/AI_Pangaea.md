@@ -99,10 +99,10 @@ nav_order: 1
     </div>
   </a>
 
-  <a href="#scientific-discovery" style="text-decoration:none; color:inherit;">
+  <a href="#scientific-assessment" style="text-decoration:none; color:inherit;">
     <div class="highlight-box">
-      <h3>🧪 Scientific Discovery</h3>
-      <p>Applied to 15 scientific tasks spanning diverse scientific subjects.</p>
+      <h3>🧪 Scientific Assessment</h3>
+      <p>Empirical validation of 15 scientific tasks spanning diverse scientific subjects.</p>
     </div>
   </a>
 
@@ -157,7 +157,7 @@ nav_order: 1
 
 ---
 
-## 🧪 Scientific Discovery {#scientific-discovery}
+## 🧪 Scientific Assessment {#scientific-assessment}
 <figure style="margin-bottom:40px; text-align: center;">
   <img src="/assets/img/sci1.jpg" 
        style="width:100%; height:auto; display:block; margin:0;">
