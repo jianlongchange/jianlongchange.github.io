@@ -30,7 +30,7 @@ nav_order: 1
 </div>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank" style="display:inline-block; padding:10px 20px; background:#0056d2; color:#fff; border-radius:6px; text-decoration:none; font-weight:bold; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
+  <a href="https://arxiv.org/abs/2509.17460" target="_blank" style="display:inline-block; padding:10px 20px; background:#0056d2; color:#fff; border-radius:6px; text-decoration:none; font-weight:bold; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
     📄 Read on arXiv
   </a>
 </p>
@@ -197,11 +197,14 @@ If you find **Pangaea** useful for your research, please cite our work:
 
 <pre style="background:#f7f7f7; padding:15px; border-radius:8px; overflow:auto;">
 <code>
-@article{pangaea2025,
-  title   = {Pangaea: A Unified Multimodal Framework},
-  author  = {First Author and Second Author and Others},
-  journal = {arXiv preprint arXiv:xxxx.xxxxx},
-  year    = {2025}
+@misc{chang2025aipangaeaunifyingintelligence,
+      title={AI Pangaea: Unifying Intelligence Islands for Adapting Myriad Tasks}, 
+      author={Jianlong Chang and Haixin Wang and Zhiyuan Dang and Li Huang and Zhiyu Wang and Ruoqi Cao and Shihao Piao and Dongzhe Li and Dianyu Gao and Dongsheng Wang and Yin Li and Jinan Sun and Lu Fang and Zhouchen Lin},
+      year={2025},
+      eprint={2509.17460},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2509.17460}, 
 }
 </code>
 </pre>
